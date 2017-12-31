@@ -1,0 +1,17 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "Photostudio",
+  "main": "index.html",
+  "scripts": {
+    "test": "Firstproject"
+  },
+  "author": "Sathish K R",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
